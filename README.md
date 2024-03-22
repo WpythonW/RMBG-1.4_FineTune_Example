@@ -1,7 +1,3 @@
-Конечно, давай составим `README.md` файл с учетом твоих пожеланий, используя личный стиль и упомянув конкретные детали:
-
----
-
 # Fine-Tuning Example with a Single Picture
 
 ## Overview
@@ -36,7 +32,3 @@ I would like to extend my sincerest gratitude to the authors and contributors of
 ## Purpose of This Repository
 
 The intention behind this repository is purely educational, aiming to illustrate the process of fine-tuning a specific model with a practical example. It is tailored for those interested in exploring the potential of machine learning models beyond their initial configuration.
-
----
-
-This version provides a concise yet comprehensive guide on how to use your repository for fine-tuning, acknowledges the original model and its authors, and emphasizes the educational purpose of your work.
